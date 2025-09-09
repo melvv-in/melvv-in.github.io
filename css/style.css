@@ -505,9 +505,9 @@ strong {
 .hero-image {
   position: absolute;
   z-index: 22;
-  right: 70px;
+  right: 75px;
   top: -26px;
-  max-height: 420px;
+  max-height: 425px;
   border-radius: 50%;
   object-fit: cover;
   overflow: hidden;
@@ -1180,3 +1180,4 @@ strong {
   }
 
 }
+
