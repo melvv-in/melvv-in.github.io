@@ -507,7 +507,7 @@ strong {
   z-index: 22;
   right: 70px;
   top: -26px;
-  max-height: 379px;
+  max-height: 420px;
   border-radius: 50%;
   object-fit: cover;
   overflow: hidden;
@@ -1178,4 +1178,5 @@ strong {
   .hero-image {
     min-width: inherit;
   }
+
 }
